@@ -54,7 +54,4 @@ I'd like to express my gratitude to the following open-source projects and libra
 
 ---
 
-Thank you for visiting my portfolio website! I hope you find it informative and engaging.
-
-Connect with me on [Email](jayasriraam.job@gmail.com).
-```
+Thank you for visiting my portfolio website! I hope you find it informative and Engaging.
