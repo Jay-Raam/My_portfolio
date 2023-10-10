@@ -17,7 +17,7 @@ If you want to run this website locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/jayasriraam-s/your-portfolio-website.git
+ git clone https://github.com/jayasriraam-s/your-portfolio-website.git (https://github.com/Jayasriraam-s/My_portfolio.git)
    ```
 
 2. Navigate to the project directory:
@@ -34,7 +34,6 @@ You can navigate through the website using the following sections:
 
 - **Home:** A brief introduction to me.
 - **Portfolio:** Showcase of my projects with descriptions and links.
-- **Skills:** List of programming languages, frameworks, and tools I'm proficient in.
 - **About:** More details about my background and interests.
 - **Contact:** Ways to get in touch with me.
 
