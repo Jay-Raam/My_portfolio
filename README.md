@@ -17,7 +17,7 @@ If you want to run this website locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-portfolio-website.git
+   git clone https://github.com/jayasriraam-s/your-portfolio-website.git
    ```
 
 2. Navigate to the project directory:
