@@ -3,7 +3,9 @@
 
 ## Description
 
-Welcome to my personal portfolio website, where I showcase my passion for web development, share my latest projects, and highlight my skills and achievements. This website provides a glimpse into my journey as a web developer and a glimpse into who I am and what I can do.
+Welcome to my personal portfolio website, where I showcase my passion for web development,
+share my latest projects, and highlight my skills and achievements.
+ This website provides a glimpse into my journey as a web developer and a glimpse into who I am and what I can do.
 
 ## Technologies Used
 
