@@ -10,13 +10,14 @@ This website provides a glimpse into my journey as a web developer and a glimpse
 
 ```bash
 - HTML5
-- CSS3 with Tailwind CSS
+- Tailwind CSS
 - JavaScript
 ```
 
 ## Installation
 
 If you want to run this website locally, follow these steps:
+
  Clone the repo
 
 ```sh
@@ -51,8 +52,9 @@ I welcome contributions and feedback! If you find a bug, have a feature request,
 I'd like to express my gratitude to the following open-source projects and libraries that played a pivotal role in creating this portfolio website:
 
 ```sh
-- [Tailwind CSS](https://tailwindcss.com)
+[Tailwind CSS](https://tailwindcss.com)
 ```
+
 ---
 
-Thank you for visiting my portfolio website! I hope you find it informative and Engaging.
+Thank you for visiting portfolio! I hope you find it informative and Engaging.
