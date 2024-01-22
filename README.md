@@ -50,7 +50,7 @@ I welcome contributions and feedback! If you find a bug, have a feature request,
 
 I'd like to express my gratitude to the following open-source projects and libraries that played a pivotal role in creating this portfolio website:
 
-```bash
+```sh
 - [Tailwind CSS](https://tailwindcss.com)
 ```
 ---
