@@ -16,12 +16,11 @@ This website provides a glimpse into my journey as a web developer and a glimpse
 ## Installation
 
 If you want to run this website locally, follow these steps:
+ Clone the repo
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/jayasriraam-s/your-portfolio-website.git
-   ```
+```sh
+git clone https://github.com/Jay-Raam/My_portfolio.git
+```
 
 2. Navigate to the project directory:
 
